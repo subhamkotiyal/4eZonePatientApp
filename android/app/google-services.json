@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "705545229513",
+    "firebase_url": "https://ezone-b6168.firebaseio.com",
+    "project_id": "ezone-b6168",
+    "storage_bucket": "ezone-b6168.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705545229513:android:c52cac9e4a88231d0be918",
+        "android_client_info": {
+          "package_name": "com.fourehealthcare_reactnative_customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705545229513-i5koeqr8kf64k439hffhv4mifj6cfmeu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fourehealthcare_reactnative_customer",
+            "certificate_hash": "db8689723298163096f33369a8ef08327b3d28e3"
+          }
+        },
+        {
+          "client_id": "705545229513-4kbnob95ms5mtqi5hb5g263ob9mkpv9i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fourehealthcare_reactnative_customer",
+            "certificate_hash": "756c991b3727a73eaa184cb15d202835fbc26956"
+          }
+        },
+        {
+          "client_id": "705545229513-jjg3bb5mu3dn3biftcr1ln1gj7p7vuqp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fourehealthcare_reactnative_customer",
+            "certificate_hash": "6ed02101369e4506a092afc4bc64054f5d90c09e"
+          }
+        },
+        {
+          "client_id": "705545229513-qakf32m2hi962kbkvufh2bcu31uijmk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAICYwqEnH44JqHsdziXsVS_G4oKBjybzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705545229513-qakf32m2hi962kbkvufh2bcu31uijmk3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "705545229513-r23bb0vjm9qkpil0p9pk48225vv1q908.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fourezonecustomer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
